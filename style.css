@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+.container_clock_fibonacci{
+  width:80px;
+  height:50px;
+  position:relative;
+  font-family:"Oswald";
+  color:white;
+}
+.fibonacci5{
+  width:50px;height:50px;
+  position:absolute;
+  top:0;right:0;
+  line-height:50px;text-align:center;
+  font-size:20px;
+}
+.fibonacci3{
+  width:30px;height:30px;
+  position:absolute;
+  bottom:0;left:0;
+  line-height:30px;text-align:center;
+  font-size:20px;
+}
+.fibonacci2{
+  width:20px;height:20px;
+  position:absolute;
+  top:0;left:0;
+  line-height:20px;text-align:center;
+  font-size:20px;
+}
+.fibonacci1{
+  width:10px;height:10px;
+  position:absolute;
+  top:0;left:20px;
+}
+.fibonacci1_0{
+  width:10px;height:10px;
+  position:absolute;
+  top:10px;left:20px;
+}
