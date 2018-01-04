@@ -38,7 +38,7 @@
   //black is for void (or 0... 0 != void)
 
 
-  if($amorpm == "pm" && $hour == 12){//midnight
+  if($amorpm == "am" && $hour == 12){//midnight
     $hour = 0;
   }
 
