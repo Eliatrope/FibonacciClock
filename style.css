@@ -37,3 +37,15 @@
   position:absolute;
   top:10px;left:20px;
 }
+.blue{
+  background-color:rgb(100,103,244);
+}
+.green{
+  background-color:rgb(90, 232, 124);
+}
+.red{
+  background-color:rgb(235,87,103);
+}
+.black{
+  background-color:rgb(93, 95, 99);
+}
