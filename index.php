@@ -1,7 +1,5 @@
 <?php
-  //Le but de la feature est de proc' en php procédural (à défaut de savoir le faire en objet), la fameuse clock de Fibonacci (https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-clock-for-nerds-wit?lang=fr)
-
-  //Pour le site SHOT, il faudra juste get la date/heure de publication de l'article et remplacer le contenu des variables.
+  
   date_default_timezone_set("Europe/Paris");
   $amorpm = date("a");
   $hour = date("g");
