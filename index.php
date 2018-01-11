@@ -1,6 +1,6 @@
 <?php
   
-  date_default_timezone_set("Europe/Paris");
+  date_default_timezone_set("Europe/Paris");//Adjust the time zone as you wish
   $amorpm = date("a");
   $hour = date("g");
   $minute = date("i");
